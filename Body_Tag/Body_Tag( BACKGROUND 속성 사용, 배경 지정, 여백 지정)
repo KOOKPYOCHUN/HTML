@@ -1,7 +1,7 @@
 <HTML>
 
   <HEAD>
-	  <TITLE>BODY 태그 속성 사용하기2</TITLE>
+	  <TITLE>BODY 태그 배경 및 여백</TITLE>
   </HEAD>
 
 <BODY BACKGROUND="꿀.JPG" LEFTMARGIN="100" TOPMARGIN="800">
